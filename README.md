@@ -38,7 +38,7 @@ I’m always looking to collaborate on exciting projects and innovative ventures
 
 ---
 
-## 📫 How to Reach Me:
+## 📫 How to reach me:
 
 <table>
   <tr>
@@ -57,8 +57,6 @@ I’m always looking to collaborate on exciting projects and innovative ventures
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://wa.me/94762320830">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -74,8 +72,6 @@ I’m always looking to collaborate on exciting projects and innovative ventures
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.youtube.com/@smbnk6121">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
@@ -86,7 +82,6 @@ I’m always looking to collaborate on exciting projects and innovative ventures
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 
