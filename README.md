@@ -8,8 +8,8 @@
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nimnada-kavishwara-nk)
-- [Twitter](https://twitter.com/your-twitter-handle) *(Replace with your actual handle)*
-- [Email](mailto:your-email@example.com) *(Replace with your actual email)*
+- [Twitter](https://x.com/Nimnada_NK)
+- [Email](nimnadakavishwarank.ugc@gmail.com)
 
 ---
 
