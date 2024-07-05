@@ -54,6 +54,11 @@ I’m always looking to collaborate on exciting projects and innovative ventures
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NimnadaUGC&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimnadaUGC&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=NimnadaUGC&color=blue&style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NimnadaUGC&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimnadaUGC&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimnadaUGC&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 <!---
 NimnadaUGC/NimnadaUGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
