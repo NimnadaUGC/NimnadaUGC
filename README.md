@@ -55,7 +55,7 @@ I’m always looking to collaborate on exciting projects and innovative ventures
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimnadaUGC&theme=light" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimnadaUGC&theme=light" alt="Top Languages">
   <img src="https://github-profile-trophy.vercel.app/?username=NimnadaUGC&theme=light" alt="GitHub Trophy">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimnadaUGC&theme=light" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NimnadaUGC&theme=minimal" alt="GitHub Activity Graph">
 </p>
 
 ---
