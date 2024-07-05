@@ -8,7 +8,7 @@
 ---
 
 ## 🔭 About Me:
-I'm currently an undergraduate at the University of Ruhuna, pursuing a degree in Computer Science. I'm the Founder and CEO of [CSB Developments](https://csbodima.lk/nimnada), where we specialize in delivering innovative software solutions including web and app development, UI/UX design, and computer science courses. 
+I'm currently an undergraduate at the University of Ruhuna, pursuing a degree in Computer Science. I'm the Founder and CEO of [CSB DEVELOPMENTS](https://csbodima.lk/nimnada), where we specialize in delivering innovative software solutions including web and app development, UI/UX design, and computer science courses. 
 
 I'm passionate about software development, content creation, and helping businesses grow through strategic digital marketing and brand development.
 
