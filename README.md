@@ -1,6 +1,7 @@
 ![GitHub Cover](https://github.com/NimnadaUGC/NimnadaUGC/blob/main/Git-Hub%20Cover.png)
 
 # 👋 Hi, I’m Nimnada Kavishwara
+[![Follow](https://img.shields.io/github/followers/NimnadaUGC?label=Follow&style=social)](https://github.com/NimnadaUGC?tab=followers)
 
 **Undergraduate @University of Ruhuna | Software Developer | Content Creator | Social Media Consultant | Graphic Designer & Editor | Brand Strategist | Passionate about Transforming Ideas into Digital Solutions!**
 
