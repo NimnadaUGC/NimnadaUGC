@@ -40,7 +40,7 @@ I’m always looking to collaborate on exciting projects and innovative ventures
 
 ## 📫 How to reach me:
 
-<table style="border: 'none'; width: '100%';">
+<table>
   <tr>
     <td align="left" valign="middle" style="border: none;">
       <a href="https://www.linkedin.com/in/nimnada-kavishwara-nk">
